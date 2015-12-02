@@ -1,0 +1,14 @@
+//
+// Created by David Paquette on 12/1/15.
+//
+
+#ifndef RTOSOBJECTORIENTEDARDUINO_TIMEREVENT_H
+#define RTOSOBJECTORIENTEDARDUINO_TIMEREVENT_H
+
+
+class TimerEvent {
+
+};
+
+
+#endif //RTOSOBJECTORIENTEDARDUINO_TIMEREVENT_H

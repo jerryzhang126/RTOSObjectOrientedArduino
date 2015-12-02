@@ -1,0 +1,14 @@
+//
+// Created by David Paquette on 12/1/15.
+//
+
+#ifndef RTOSOBJECTORIENTEDARDUINO_TASK_H
+#define RTOSOBJECTORIENTEDARDUINO_TASK_H
+
+
+class Task {
+
+};
+
+
+#endif //RTOSOBJECTORIENTEDARDUINO_TASK_H
