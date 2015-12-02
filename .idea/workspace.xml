@@ -12,20 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4298e4e6-c68e-4a61-bd5e-9b42ba14f407" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArduinoRTOSMain.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArduinoRTOSMain.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semaphore.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semaphore.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemaphoreDataManager.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemaphoreDataManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Task.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thread.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreadManager.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreadManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimerEvent.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimerEvent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RTOSObjectOrientedArduino.iml" afterPath="$PROJECT_DIR$/.idea/RTOSObjectOrientedArduino.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RTOSObjectOrientedArduino.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,26 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Task.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Thread.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Thread.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SemaphoreDataManager.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SemaphoreDataManager.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SemaphoreDataManager.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.46875">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -158,6 +138,8 @@
         <option value="$PROJECT_DIR$/Thread.h" />
         <option value="$PROJECT_DIR$/SemaphoreDataManager.h" />
         <option value="$PROJECT_DIR$/ArduinoRTOSMain.h" />
+        <option value="$PROJECT_DIR$/test.h" />
+        <option value="$PROJECT_DIR$/test.cpp" />
       </list>
     </option>
   </component>
@@ -400,6 +382,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.46875">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
       </provider>

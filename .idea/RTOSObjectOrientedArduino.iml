@@ -17,6 +17,8 @@
       <sourceFolder url="file://$MODULE_DIR$/ThreadManager.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TimerEvent.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TimerEvent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test.h" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
